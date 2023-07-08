@@ -1,0 +1,16 @@
+com\reto2\repository\crud\UserCrudRepository.class
+com\reto2\repository\GadgetRepository.class
+com\reto2\controller\GadgetController.class
+com\reto2\Reto2.class
+com\reto2\service\UserService.class
+com\reto2\repository\OrderRepository.class
+com\reto2\model\Gadget.class
+com\reto2\model\User.class
+com\reto2\repository\UserRepository.class
+com\reto2\service\GadgetService.class
+com\reto2\repository\crud\GadgetCrudRepository.class
+com\reto2\model\Order.class
+com\reto2\repository\crud\OrderCrudRepository.class
+com\reto2\controller\UserController.class
+com\reto2\controller\OrderController.class
+com\reto2\service\OrderService.class
